@@ -4,7 +4,7 @@ Flamingo is an keyboard remap tool for macOS. Also supports mouse remap, keyboar
 
 [中文介绍请点我](https://openfibers.github.io/flamingo/README_cn)
 
-### [Download 1.0.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.0.0.zip)
+### [Download 1.1.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.0.zip)
 
 ### Remap Keys or Mouse Buttons
 For example: you may want to press middle mouse key to open Mission Control. Just make a map: mouse button 2 to control + up in Flamingo preferences.  
@@ -54,6 +54,28 @@ For example: press control + escape to open terminal, and change to project dire
   "script" : "cd ~/projects/flamingo&&git pull"
 }
 ```
+
+### AppleScript Hotkey
+
+AppleScript is a powerful scripting language that allows users to directly control scriptable Macintosh applications, as well as parts of macOS itself. For example: using option + F to close all Finder window:  
+
+```
+{
+  "from" : "option F",
+  "AppleScript" : "tell application \"Finder\" to close every window"
+}
+```
+
+Or using option + P to pause iTunes :  
+
+```
+{
+  "from" : "option P",
+  "AppleScript" : "if application \"iTunes\" is running \n tell application \"iTunes\" to pause \n end if"
+}
+```
+
+Check [Introduction to AppleScript Language Guide](https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html) for more infomation about AppleScript.  
 
 [Full Usage and All Key Definations, Click Here](https://openfibers.github.io/flamingo/help)
 

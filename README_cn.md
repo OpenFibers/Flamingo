@@ -4,7 +4,7 @@ Flamingo 不仅是个键盘映射工具，还支持宏定义，和一键执行 s
 
 [For English Introduction, Click Here](https://openfibers.github.io/flamingo)
 
-### [下载 1.0.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.0.0.zip)
+### [下载 1.1.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.0.zip)
 
 ### 按键映射
 举个栗子，比如想要映射鼠标中键为Mission Control，打开Flamingo的Preferences，配置如下设置（配置为JSON格式）:  
@@ -41,7 +41,7 @@ Flamingo 不仅是个键盘映射工具，还支持宏定义，和一键执行 s
 也可以一键大招什么的：  
 ![](https://github.com/OpenFibers/flamingo/raw/master/Images/dota2_kael.gif)
 
-### 脚本热键
+### Shell 脚本热键
 
 举个栗子：按 control + escape，一键唤起 Terminal 并切到工程路径，更新git：  
 
@@ -55,6 +55,29 @@ Flamingo 不仅是个键盘映射工具，还支持宏定义，和一键执行 s
   ]
 }
 ```
+
+### AppleScript 热键
+
+AppleScript 可以用来控制 macOS app，或是 macOS 本身。AppleScript 可以提供非常强大的对 macOS 的控制与自动化功能。  
+举个例子，按 option + F to 关闭所有 Finder 窗口：  
+
+```
+{
+  "from" : "option F",
+  "AppleScript" : "tell application \"Finder\" to close every window"
+}
+```
+
+按 option + P 暂停 iTunes 播放：
+
+```
+{
+  "from" : "option P",
+  "AppleScript" : "if application \"iTunes\" is running \n tell application \"iTunes\" to pause \n end if"
+}
+```
+
+点击 [Introduction to AppleScript Language Guide](https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html) 了解更多关于 AppleScript 的使用姿势。  
 
 [完整用法和全部按键定义请戳我](https://openfibers.github.io/flamingo/help_cn)
 
