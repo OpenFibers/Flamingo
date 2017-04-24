@@ -4,7 +4,7 @@ Flamingo is an keyboard remap tool for macOS. Also supports mouse remap, keyboar
 
 [中文介绍请点我](https://openfibers.github.io/flamingo/README_cn)
 
-### [Download 1.1.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.0.zip)
+### [Download 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.1.zip)
 
 ### Remap Keys or Mouse Buttons
 For example: you may want to press middle mouse key to open Mission Control. Just make a map: mouse button 2 to control + up in Flamingo preferences.  
@@ -98,6 +98,6 @@ Free version supports unlimited configration files, each one has max to 6 config
 
 [中文介绍请点我](https://openfibers.github.io/flamingo/README_cn)
 
-### [Download 1.0.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.0.0.zip)
+### [Download 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.1.zip)
 
 Any questions? Mail to [openfibers@gmail.com](mailto://openfibers@gmail.com).  
