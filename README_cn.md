@@ -94,10 +94,6 @@ AppleScript 可以用来控制 macOS app，或是 macOS 本身。AppleScript 可
 但是千万别从别的地方下载本软件，软件被黑客改过又加监控键盘权限是很危险的。  
 如果怀疑Flamingo盗取按键信息，呃，你可以报警，让警察来抓我：）  
 
-### 免费版本与付费版本的区别
-免费版支持不限数量的配置文件，每个配置文件最多包含六条配置。付费版无任何限制。  
-[点我花30块钱成为作者跪舔的尊贵付费用户](https://openfibers.github.io/flamingo/purchase).  
-
 [For English Introduction, Click Here](https://openfibers.github.io/flamingo)
 
 ### [下载 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.0.zip)

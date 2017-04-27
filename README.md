@@ -92,10 +92,6 @@ Check [Introduction to AppleScript Language Guide](https://developer.apple.com/l
 Though it's not an open source software (like Karabiner), Flamingo never use any network or record what you tap, Which makes ti to be safe to use.  
 But never download Flamingo from website other than current page.  
 
-### Free Version or Pro Version?
-Free version supports unlimited configration files, each one has max to 6 configration in it. Unlimited configuration in each configration file is available in pro version. 
-[Purchase a License for only 30 RMB](https://openfibers.github.io/flamingo/purchase).  
-
 [中文介绍请点我](https://openfibers.github.io/flamingo/README_cn)
 
 ### [Download 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.1.zip)
