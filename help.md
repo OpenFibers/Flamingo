@@ -80,7 +80,7 @@ Use "alias" to remember what a mapping do. For example, note the mapping we made
 
 ### Combination press
 
-Flamingo supports modifier keys. Make a map control + P to up (which makes every app control as vim):
+Flamingo supports modifier keys. Make a map control + P to up (which makes every app work like emacs):
 
 ```
 {

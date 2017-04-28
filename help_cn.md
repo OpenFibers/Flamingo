@@ -78,7 +78,7 @@ Flamingo也可以用来映射鼠标按键。
 
 ### 组合键
 
-Flamingo 支持组合键。比如映射 control + P 到方向键上 (用过vim的都懂的):
+Flamingo 支持组合键。比如映射 control + P 到方向键上 (让emacs用户操作任何app都像emacs):
 
 ```
 {
