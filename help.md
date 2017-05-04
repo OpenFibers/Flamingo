@@ -212,7 +212,7 @@ F15
 escape
 backspace
 tab
-enter
+return
 
 `
 -
