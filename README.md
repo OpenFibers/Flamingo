@@ -1,10 +1,10 @@
-## Flamingo - Awesome Keyboard Remapper for macOS Sierra 10.12, Replacement for Karabiner
+## Flamingo - Awesome Keyboard Remapper for macOS High Sierra 10.13 / Sierra 10.12, Replacement for Karabiner
 
-Flamingo is an keyboard remap tool for macOS. Also supports mouse remap, keyboard macro and define shell script hotkey.  
+Flamingo is an keyboard remap tool for macOS. Also supports mouse remap, keyboard macro, define shell script hotkey, or event Apple Script.  
 
 [中文介绍请点我](https://openfibers.github.io/flamingo/README_cn)
 
-### [Download 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.1.zip)
+### [Download 1.2.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.2.0.zip)
 
 ### Remap Keys or Mouse Buttons
 For example: you may want to press middle mouse key to open Mission Control. Just make a map: mouse button 2 to control + up in Flamingo preferences.  
@@ -94,6 +94,6 @@ But never download Flamingo from website other than current page.
 
 [中文介绍请点我](https://openfibers.github.io/flamingo/README_cn)
 
-### [Download 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.1.zip)
+### [Download 1.2.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.2.0.zip)
 
 Any questions? Mail to [openfibers@gmail.com](mailto://openfibers@gmail.com).  

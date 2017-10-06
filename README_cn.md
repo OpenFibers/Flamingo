@@ -1,10 +1,10 @@
-## Flamingo - 牛逼的键盘映射、宏定义、脚本热键工具，支持 macOS Sierra 10.12，替代Karabiner
+## Flamingo - 牛逼的键盘映射、宏定义、脚本热键工具，支持 macOS High Sierra 10.13 / Sierra 10.12，替代Karabiner
 
-Flamingo 不仅是个键盘映射工具，还支持宏定义，和一键执行 shell 脚本。  
+Flamingo 不仅是键盘映射工具，还支持宏定义，一键执行 shell 脚本和 Apple Script。  
 
 [For English Introduction, Click Here](https://openfibers.github.io/flamingo)
 
-### [下载 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.0.zip)
+### [下载 1.2.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.2.0.zip)
 
 ### 按键映射
 举个栗子，比如想要映射鼠标中键为Mission Control，打开Flamingo的Preferences，配置如下设置（配置为JSON格式）:  
@@ -96,6 +96,6 @@ AppleScript 可以用来控制 macOS app，或是 macOS 本身。AppleScript 可
 
 [For English Introduction, Click Here](https://openfibers.github.io/flamingo)
 
-### [下载 1.1.1](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.1.0.zip)
+### [下载 1.2.0](https://github.com/OpenFibers/flamingo/raw/master/Apps/Flamingo.app_1.2.0.zip)
 
 使用有问题？发邮件到 [openfibers@gmail.com](mailto://openfibers@gmail.com).  
