@@ -153,6 +153,8 @@ Use "script" to execute shell script in Terminal.app. For example, press control
 
 ### AppleScript Hotkey
 
+[AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html) is a scripting language created by Apple. It allows users to directly control scriptable Macintosh applications, as well as parts of macOS itself. Users can do almost anything to macOS by using AppleScript.
+
 Use "AppleScript" to execute an AppleScript. For example, press control + 1, execute an AppleScript to read "Hello World":  
 
 ```
