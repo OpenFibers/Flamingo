@@ -149,6 +149,21 @@ Flamingo 支持组合键。比如映射 control + P 到方向键上 (让emacs用
 }
 ```
 
+### AppleScript 脚本热键
+
+使用 "AppleScript" 来执行一段 AppleScript 脚本. 举个例子, 按 control + 1, 读出 "Hello World":  
+
+```
+{
+  "map" : [
+    {
+      "from" : "control 1",
+      "AppleScript" : "say \"Hello World\""
+    }
+  ]
+}
+```
+
 ### 所有按键定义
 
 普通按键:   

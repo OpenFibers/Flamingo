@@ -63,7 +63,7 @@ Or press whitespace, goes to mouse right button:
 
 ### Configuration alias
 
-Use "alias" to remember what a mapping do. For example, note the mapping we made as "Left button to whitespace":
+Use "alias" to remember what a mapping do. For example, note the mapping we made as "Right button to whitespace":
 ```
 {
   "map" : [
@@ -146,6 +146,21 @@ Use "script" to execute shell script in Terminal.app. For example, press control
     {
       "from" : "control 0",
       "script" : "cd ~/project && git pull"
+    }
+  ]
+}
+```
+
+### AppleScript Hotkey
+
+Use "AppleScript" to execute an AppleScript. For example, press control + 1, execute an AppleScript to read "Hello World":  
+
+```
+{
+  "map" : [
+    {
+      "from" : "control 1",
+      "AppleScript" : "say \"Hello World\""
     }
   ]
 }
