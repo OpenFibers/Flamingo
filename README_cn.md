@@ -39,7 +39,7 @@ Flamingo 不仅是键盘映射工具，还支持宏定义，一键执行 shell �
 ```
 
 也可以一键大招什么的：  
-![](https://github.com/OpenFibers/flamingo/raw/master/Images/dota2_kael.gif)
+<img src="https://github.com/OpenFibers/flamingo/raw/master/Images/dota2_kael.gif" alt="dota2_kael" style="width: 390px;"/>
 
 ### Shell 脚本热键
 

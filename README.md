@@ -42,7 +42,8 @@ Add configuration below, and that's it:
 ```
 
 Make gaming easier. Perform amazing gaming actions with simple human actions:  
-![](https://github.com/OpenFibers/flamingo/raw/master/Images/dota2_kael.gif)
+<img src="https://github.com/OpenFibers/flamingo/raw/master/Images/dota2_kael.gif" alt="dota2_kael" style="width: 390px;"/>
+
 
 ### Shell Script Hotkey
 
