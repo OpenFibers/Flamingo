@@ -24,7 +24,6 @@ Configuration is in JSON format, which is easy to learn:
 ### Key Macros
 
 Make working easier. Press only one key to auto type some text. For example, press option + ], enter `[[ alloc] init];`:  
-![]()
 <img src="https://github.com/OpenFibers/flamingo/raw/master/Images/autotype.gif" alt="auto_type" style="width: 430px;"/>
 
 Add configuration below, and that's it:  
